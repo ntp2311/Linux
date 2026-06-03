@@ -1,0 +1,1 @@
+%ops ALL=(root) /usr/bin/systemctl status cron

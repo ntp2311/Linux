@@ -1,0 +1,1 @@
+%devs ALL=(root) /opt/scripts/deploy.sh
